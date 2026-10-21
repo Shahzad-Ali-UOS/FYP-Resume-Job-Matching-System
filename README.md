@@ -26,7 +26,7 @@ An intelligent web platform that bridges the gap between job seekers and recruit
 * **Database:** PostgreSQL / SQLite
 * **AI & NLP Pipeline:**
   * **Text Extraction:** `PyPDF2` / `pdfplumber` / `python-docx`
-  * **Embeddings & LLM:** Grok API / Sentence-Transformers (`all-MiniLM-L6-v2`)
+  * **Embeddings & LLM:** Grok API / Sentence-Transformers (`llama-3.1-8b-instant`)
   * **Similarity Computation:** Cosine Similarity / FAISS vector indexing
 * **Authentication:** JWT (JSON Web Tokens)
 
